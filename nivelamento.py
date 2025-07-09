@@ -1,1 +1,3 @@
-print("Ola mundo")
+texto = ""
+input(texto)
+print(texto)
