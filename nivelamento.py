@@ -1,3 +1,3 @@
-texto = ""
-input(texto)
-print(texto)
+print("ola mundo")
+
+print("a")
